@@ -1,4 +1,4 @@
-# classifica-oTripAdvisorExInR
+# classifição TripAdvisor Exercício In R Language
 Exercícios de Classificação (Clusterização - Agrupamentos) utilizando repositório do TripAdvisor
 
 Exercíciro para a responder a seguinte questão:
